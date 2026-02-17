@@ -1,0 +1,49 @@
+{
+  "project_title": "THE ELIJAH PROJECT",
+  "episode_title": "PILOT SCRIPT (REVISED OPENING)",
+  "scenes": [
+    {
+      "scene_id": "1",
+      "scene_heading": "INT. PRECINCT LOCKER ROOM - MORNING",
+      "transition_in": "FADE IN",
+      "sound_cues": [
+        "low, ambient hum"
+      ],
+      "segments": [
+        {
+          "segment_id": "1.1",
+          "type": "action",
+          "raw_text": "A spartan, clean locker room. ELIJAH (20s, sharp, focused) is dressed in a fresh police uniform. He stands before his open locker.",
+          "entities": {
+            "characters": [
+              {
+                "name": "Elijah",
+                "description": "20s, sharp, focused",
+                "state": "dressed in uniform, standing"
+              }
+            ],
+            "locations": [
+              {
+                "name": "locker room",
+                "description": "spartan, clean"
+              }
+            ],
+            "objects": [
+              {
+                "name": "police uniform"
+              },
+              {
+                "name": "open locker"
+              }
+            ]
+          },
+          "actions": [
+            "dressed",
+            "stands"
+          ],
+          "emotional_tone": "neutral/establishing"
+        }
+      ]
+    }
+  ]
+}
